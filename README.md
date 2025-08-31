@@ -1,11 +1,11 @@
-# 🛒 Proyecto Final - Microservicios con Spring Cloud (TodoCode Academy)
+#  Proyecto Final - Microservicios con Spring Cloud (TodoCode Academy)
 
 Este proyecto fue desarrollado como **trabajo integrador final** del curso **Microservicios con Spring Cloud** de TodoCode Academy.  
 El objetivo fue aplicar los conceptos de **arquitectura de microservicios**, **comunicación entre servicios** y **patrones de resiliencia** para una **tienda online de electrodomésticos**.
 
 ---
 
-## 📌 Escenario planteado
+## Objetivo
 Se desarrollaron **tres microservicios independientes** que se comunican entre sí para simular la operatoria de una tienda online:
 
 1. **Microservicio de Productos**  
@@ -24,7 +24,7 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 
 ---
 
-## ⚙️ Requerimientos implementados
+##  Requerimientos implementados
 ✅ **Arquitectura de microservicios** diagramada y desarrollada.  
 ✅ CRUDs y operaciones necesarias en cada servicio.  
 ✅ **Servidor Eureka** para registrar y descubrir los servicios.  
@@ -36,7 +36,7 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 
 ---
 
-## 📂 Tecnologías utilizadas
+##  Tecnologías utilizadas
 - **Java + Spring Boot**  
 - **Spring Cloud (Eureka, Load Balancer, API Gateway, Resilience4J)**  
 - **Maven**  
@@ -46,7 +46,7 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 
 ---
 
-## 📌 Pruebas
+##  Pruebas
 - Se realizaron pruebas de comunicación entre servicios con **Postman**.
 - 
 
