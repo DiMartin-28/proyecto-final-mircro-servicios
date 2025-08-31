@@ -47,7 +47,6 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 
 ##  Pruebas
 - Se realizaron pruebas de comunicación entre servicios con **Postman**.
-- 
 
 ## Autor
 **Martín Díaz**  
