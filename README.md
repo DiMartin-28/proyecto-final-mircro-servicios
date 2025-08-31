@@ -32,7 +32,6 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 ✅ **Circuit Breaker y Retry (Resilience4J)** para manejar fallos de comunicación.  
 ✅ **API Gateway** como punto de entrada único para clientes externos.  
 
-*(La parte de Docker fue opcional y no se implementó en esta entrega.)*
 
 ---
 
