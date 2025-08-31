@@ -25,12 +25,12 @@ Se desarrollaron **tres microservicios independientes** que se comunican entre s
 ---
 
 ##  Requerimientos implementados
-✅ **Arquitectura de microservicios** diagramada y desarrollada.  
-✅ CRUDs y operaciones necesarias en cada servicio.  
-✅ **Servidor Eureka** para registrar y descubrir los servicios.  
-✅ **Balanceo de carga (Spring Cloud Load Balancer)** con múltiples instancias.  
-✅ **Circuit Breaker y Retry (Resilience4J)** para manejar fallos de comunicación.  
-✅ **API Gateway** como punto de entrada único para clientes externos.  
+- **Arquitectura de microservicios** diagramada y desarrollada.  
+- CRUDs y operaciones necesarias en cada servicio.  
+- **Servidor Eureka** para registrar y descubrir los servicios.  
+- **Balanceo de carga (Spring Cloud Load Balancer)** con múltiples instancias.  
+- **Circuit Breaker y Retry (Resilience4J)** para manejar fallos de comunicación.  
+- **API Gateway** como punto de entrada único para clientes externos.  
 
 
 ---
